@@ -1,5 +1,5 @@
 # SunBaseData-Assignment-Express
-Customer Management Assignment for Java developer role in Sunbasedata
+Assignment for Java developer role in Sunbasedata
 
  ## Steps to Deploy
 
